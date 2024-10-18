@@ -1,0 +1,41 @@
+a=input("Item : ")
+if a.lower()=="apple":
+    print("Calories: 130")
+if a.lower()=="avocado":
+    print("Calories: 50")
+if a.lower()=="banana":
+    print("Calories: 110")
+if a.lower()=="cantaloupe":
+    print("Calories: 50")
+if a.lower()=="grapefruit":
+    print("Calories: 60")
+if a.lower()=="grapes":
+    print("Calories: 90")
+if a.lower()=="honeydue melon":
+    print("Calories: 50")
+if a.lower()=="kiwifruit":
+    print("Calories: 90")
+if a.lower()=="lemon":
+    print("Calories: 15")
+if a.lower()=="lime":
+    print("Calories: 20")
+if a.lower()=="nectarine":
+    print("Calories: 60")
+if a.lower()=="orange":
+    print("Calories: 80")
+if a.lower()=="peach":
+    print("Calories: 60")
+if a.lower()=="pear":
+    print("Calories: 100")
+if a.lower()=="pineapple":
+    print("Calories: 50")
+if a.lower()=="plums":
+    print("Calories: 70")
+if a.lower()=="strawberries":
+    print("Calories: 50")
+if a.lower()=="sweet cherries":
+    print("Calories: 100")
+if a.lower()=="tangerine":
+    print("Calories: 50")
+if a.lower()=="watermelon":
+    print("Calories: 80")
